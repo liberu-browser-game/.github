@@ -1,6 +1,28 @@
-### Description
+# iberu Persistent Browser Based Game - Laravel PBBG
 
-Welcome
+## Description
+The PBBG is an open-source, persistent browser-based game built to offer an engaging and immersive online gaming experience. Leveraging the power of Laravel 11, PHP 8.3, Filament 3.2, Livewire 3, and Jetstream 5, this project provides a solid foundation for creating, managing, and expanding a multiplayer online game directly in the browser.
+
+## Features
+
+* User Authentication: Secure login and registration using Jetstream.
+* Real-Time Interactions: Dynamic game interactions with Livewire.
+* Administrative Interface: Manage game settings and content with Filament.
+* Player Management: Track player progress, inventory, and stats.
+* Quests and Missions: Create and manage engaging quests and missions.
+* Leaderboard: Competitive leaderboards to showcase top players.
+* Notifications: Email and in-game notifications for player activities.
+* Responsive Design: Optimized for both desktop and mobile gaming.
+* Modular Architecture: Easily extend and customize game features.
+
+## Technologies Used
+
+* Laravel 11: A powerful PHP framework for building web applications.
+* PHP 8.3: Ensuring high performance and modern syntax.
+* Filament 3.2: An intuitive admin panel and form builder.
+* Livewire 3: For building dynamic, real-time interfaces.
+* Jetstream 5: Provides authentication, profile management, and team features.
+
 
 ## Our Projects
 
