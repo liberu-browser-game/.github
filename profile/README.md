@@ -9,6 +9,10 @@
 ![](https://img.shields.io/badge/JavaScript-ECMA2020-informational?style=flat&logo=JavaScript&color=F7DF1E)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+
+## [Hosted application packages](https://liberu.co.uk/order/main/packages/applications/?group_id=3)
+
+
 ## Description
 The PBBG is an open-source, persistent browser-based game built to offer an engaging and immersive online gaming experience. Leveraging the power of Laravel 11, PHP 8.3, Filament 3.2, Livewire 3, and Jetstream 5, this project provides a solid foundation for creating, managing, and expanding a multiplayer online game directly in the browser.
 
